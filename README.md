@@ -1,0 +1,1 @@
+# terraform-aws-shared-provider
